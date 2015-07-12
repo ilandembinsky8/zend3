@@ -1,5 +1,6 @@
 init
 clone
 checkcout
+add
 commit
 tag
