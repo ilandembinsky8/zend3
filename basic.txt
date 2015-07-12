@@ -10,7 +10,7 @@ checkcout
 
 Command: add
 Description: it adds.
-## Dror is eveil!!! ##
+## Dror is evil!!! ##
 
 commit
 tag
