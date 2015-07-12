@@ -3,3 +3,4 @@ clone
 checkcout
 commit
 tag
+pull
