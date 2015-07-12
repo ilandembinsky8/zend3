@@ -7,5 +7,9 @@ Description: Clones a repository into a newly created directory, creates remote-
 Example: git clone https://github.com/ilandembinsky8/zend3.git
 
 checkcout
+
+Command: add
+Description: it adds.
+
 commit
 tag
