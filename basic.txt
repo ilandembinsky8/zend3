@@ -1,4 +1,3 @@
-## eBiz Rules!! ##
 init
 clone
 checkcout
