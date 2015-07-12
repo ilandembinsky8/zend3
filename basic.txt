@@ -1,6 +1,17 @@
-init
-clone
+Command: init
+Description: Create an empty Git repository or reinitialize an existing one
+Example: git init --bare
+
+Command: clone
+Description: Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned
+Example: git clone https://github.com/ilandembinsky8/zend3.git
+
 checkcout
+
+Command: add
+Description: it adds.
+## Dror is eveil!!! ##
+
 commit
 tag
 pull
